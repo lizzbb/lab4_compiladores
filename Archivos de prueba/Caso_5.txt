@@ -1,0 +1,12 @@
+x = 0;
+y = 10;
+
+while (x < y && x != 5)
+    if (a == b || c == d)
+    x = x + 1;
+else
+    x = x + 2;
+if (x == 5)
+    y = y - 1;
+else
+    y = y + 1;
