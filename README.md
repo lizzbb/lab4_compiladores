@@ -41,3 +41,6 @@ Se generan etiquetas que controlan el flujo de evaluación, evitando cálculos i
 - El soporte del lenguaje está limitado a asignaciones, expresiones aritméticas y booleanas, y estructuras de control básicas (if, if-else, while).
 - No se optimiza el código generado (eliminación de código muerto o reducción de temporales).
 - El manejo de errores permite continuar la ejecución, pero puede generar código incompleto si existen múltiples errores.
+
+## Evidencia de Ejecución
+<img width="536" height="442" alt="Evidencia Ejecucion" src="https://github.com/user-attachments/assets/2687143f-3cdb-4ba3-ae0c-28b8a88bec65" />
